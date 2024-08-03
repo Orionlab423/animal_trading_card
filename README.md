@@ -1,3 +1,6 @@
+# Animal Trading Cards
+This animal trading cards webpage is built using HTML and CSS.
+
 # Archival Note
 This repository is deprecated; therefore, we are going to archive it.
 However, learners will be able to fork it to their personal Github account but cannot submit PRs to this repository. If you have any issues or suggestions to make, feel free to:
@@ -6,6 +9,3 @@ However, learners will be able to fork it to their personal Github account but c
 
 # animal-trading-cards
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
-
-
-# animal_trading_card
